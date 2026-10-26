@@ -1,0 +1,8 @@
+{
+  "build": 19,
+  "version": "1.0",
+  "url": "https://github.com/Gmawo/tidsregistrering-udgivelser/releases/download/v1.0.19/Tidsregistrering.zip",
+  "sha256": "42dae0d9b523809823a0fcd6e75d7e5100ed950ba9949d7c62c507376fbf25a7",
+  "notes": "Første udgivelse: stopur, Dinero, Trello-opgaver og automatisk opdatering",
+  "minimumMacOS": "14.0"
+}
